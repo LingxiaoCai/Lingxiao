@@ -17,8 +17,7 @@ def case_counter(text):
             upper += 1
     print(f'Uppercase letters: {upper}, Lowercase letters: {lower}')
     # Your code goes here
-    pass
-
+    
 
 # Test cases
 case_counter("Hello World!")  # Expected: Uppercase letters: 2, Lowercase letters: 8
