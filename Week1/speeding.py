@@ -19,7 +19,7 @@ def speeding_ticket(speed, is_birthday):
     else:
           return('Big Ticket')
     # Your code goes here
-    pass
+    
 
 
 # Test cases
